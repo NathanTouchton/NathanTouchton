@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NathanTouchton
 - 👀 I’m interested in ... Learning to code for a career in software engineering
 - 🌱 I’m currently learning ... Python and TypeScript
-- 📫 How to reach me ... Use the contact form at ntprogramming.us
+<!-- - 📫 How to reach me ... -->
 <!-- 💞️ I’m looking to collaborate on ... Nothing at this time. -->
 
 <!---
